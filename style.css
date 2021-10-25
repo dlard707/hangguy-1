@@ -1,0 +1,92 @@
+body{
+  background: blueviolet;
+  background-image: url(https://cdn.pixabay.com/photo/2020/09/30/14/34/paper-5615944_1280.png);
+  background-repeat: no-repeat;
+}
+
+h2{
+  font-size: 30px;
+  color: white;
+  text-shadow: 10px 10px 10px black;
+   border-radius: 10px;
+}
+
+button{
+  background: rgb(168, 8, 168);
+  font-size: 30px;
+  color:white;
+   box-shadow: 10px 10px 10px black;
+   border-radius: 10px;
+}
+
+input{
+  height:30px;
+  font-size: 30px;
+  box-shadow: 10px 10px 10px black;
+}
+
+/* .wrapper {
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center; 
+}
+
+.wrapper > * {
+  padding: 10px;
+  flex: 1 100%;
+}
+
+.header {
+  background: tomato;
+}
+
+.footer {
+  background: lightgreen;
+}
+
+.main {
+  text-align: left;
+  background: deepskyblue;
+}
+
+.aside-1 {
+  background: gold;
+}
+
+.aside-2 {
+  background: hotpink;
+}
+
+@media all and (min-width: 600px) {
+  .aside { flex: 1 0 0; }
+}
+
+@media all and (min-width: 800px) {
+  .main    { flex: 3 0px; }
+  .aside-1 { order: 1; } 
+  .main    { order: 2; }
+  .aside-2 { order: 3; }
+  .footer  { order: 4; }
+}
+
+body {
+  padding: 2em; 
+} */
+
+.p5Canvas{
+ 
+}
+
+div{
+  background: fuchsia;
+  width: 800px;
+  height: 300px;
+}
+
+img{
+  width: 25%;
+  margin-top: 20px;
+}
+
+
